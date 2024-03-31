@@ -8,7 +8,7 @@ export default function HomeScreen({navigation, route}){
 
             <Button title = "Go to About" 
             onPress={() => navigation.navigate("About",{
-                name: "Seun Osinowo"
+                name: "Seun Osinowo1"
             })}
             />
             
